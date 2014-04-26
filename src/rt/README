@@ -1,0 +1,3 @@
+Place Java API classes here in their standard directory format. 
+
+Classes modified for the jsJVM will be placed here when building from source. 
